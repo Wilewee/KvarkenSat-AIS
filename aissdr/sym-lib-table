@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name obc_components)(type Legacy)(uri "C:/Users/juhom/Documents/Skola/Work 2020/Thesis/sdr/hw/schematics/kicad-libs/obc_components.lib")(options "")(descr ""))
+  (lib (name uhf_components)(type Legacy)(uri "C:/Users/juhom/Documents/Skola/Work 2020/Thesis/sdr/hw/schematics/kicad-libs/uhf_components.lib")(options "")(descr ""))
+  (lib (name a3sdr)(type Legacy)(uri ${KIPRJMOD}/a3sdr.lib)(options "")(descr ""))
+  (lib (name aalto-3)(type Legacy)(uri ${KIPRJMOD}/../../../utils/aalto-3.lib)(options "")(descr ""))
+  (lib (name Fanstel-modules)(type Legacy)(uri ${KIPRJMOD}/../../../utils/Fanstel-kicad-library/Fanstel-modules.lib)(options "")(descr ""))
+  (lib (name aissdr-rescue)(type Legacy)(uri ${KIPRJMOD}/aissdr-rescue.lib)(options "")(descr ""))
+)

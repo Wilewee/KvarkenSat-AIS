@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BGU7044
+D 1 GHz wideband low-noise amplifier
+K RF GAIN BLOCK
+F https://www.nxp.com/docs/en/data-sheet/BGU7044.pdf
+$ENDCMP
+#
+$CMP PCA9633DP1
+D 4-bit I2C LED driver
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+Here are some libraries copied from sources such as other Aalto satellite projects
+or other Aalto-3 subsystems being developed in different branches of this repository.
+They are duplicated here to avoid potential problems when merging branches
+but some duplicates may be removed later.
+
+uhf_components.lib: from Foresail project
+
+
